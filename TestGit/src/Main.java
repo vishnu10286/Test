@@ -2,7 +2,7 @@
 public class Main {
 
 	/**
-	 * @param Dev1
+	 * @param Dev2
 	 */
 	
 	public static void main(String[] args) {
