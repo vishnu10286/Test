@@ -6,7 +6,6 @@ public class Main {
 	 */
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 				 int h = 0;
 				 h++;
 		float a=55;
